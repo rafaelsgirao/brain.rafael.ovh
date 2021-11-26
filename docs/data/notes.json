@@ -1,0 +1,183 @@
+{
+  "notes": {
+    "403": {
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "403",
+      "updated": 1637953509861,
+      "created": 1637953509861,
+      "parent": null,
+      "children": [],
+      "data": {}
+    },
+    "g2W1t23VlaoRsP8u11AIE": {
+      "id": "g2W1t23VlaoRsP8u11AIE",
+      "title": "Root",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0
+        }
+      },
+      "fname": "root",
+      "updated": 1637946761700,
+      "created": 1637946761700,
+      "parent": null,
+      "children": [
+        "RsgBaS1yFEm6pbYVB2Vpf",
+        "s5VQFtOm5HyP9b7Leayw6"
+      ],
+      "data": {},
+      "contentHash": "e0dfe7ac5e13e7c9a567e7315a469809",
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      }
+    },
+    "s5VQFtOm5HyP9b7Leayw6": {
+      "id": "s5VQFtOm5HyP9b7Leayw6",
+      "title": "Linuxinstallparty",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "linuxinstallparty",
+      "updated": 1637946985193,
+      "created": 1637946985193,
+      "parent": "g2W1t23VlaoRsP8u11AIE",
+      "children": [],
+      "data": {},
+      "contentHash": "3fc7c40c0eb2740e7ced83966f8bbb3d",
+      "custom": {}
+    },
+    "RsgBaS1yFEm6pbYVB2Vpf": {
+      "id": "RsgBaS1yFEm6pbYVB2Vpf",
+      "title": "README",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "README",
+      "updated": 1637953509828,
+      "created": 1637953509828,
+      "parent": "g2W1t23VlaoRsP8u11AIE",
+      "children": [],
+      "data": {},
+      "contentHash": "e980e69cac57fbb05cba5da26441f0ab",
+      "custom": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "g2W1t23VlaoRsP8u11AIE",
+      "title": "Root",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0
+        }
+      },
+      "fname": "root",
+      "updated": 1637946761700,
+      "created": 1637946761700,
+      "parent": null,
+      "children": [
+        "RsgBaS1yFEm6pbYVB2Vpf",
+        "s5VQFtOm5HyP9b7Leayw6",
+        "TDYB8ZsbwseMWhv9fCUL2",
+        "VCZzChyMyLYKhzBrOOou1"
+      ],
+      "data": {},
+      "contentHash": "e0dfe7ac5e13e7c9a567e7315a469809",
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "g2W1t23VlaoRsP8u11AIE",
+    "title": "Root",
+    "vault": {
+      "fsPath": "brain.rafael.ovh",
+      "name": "publicbrain"
+    },
+    "type": "note",
+    "desc": "",
+    "links": [],
+    "anchors": {
+      "welcome-to-dendron": {
+        "type": "header",
+        "text": "Welcome to Dendron",
+        "value": "welcome-to-dendron",
+        "line": 7,
+        "column": 0
+      }
+    },
+    "fname": "root",
+    "updated": 1637946761700,
+    "created": 1637946761700,
+    "parent": null,
+    "children": [
+      "RsgBaS1yFEm6pbYVB2Vpf",
+      "s5VQFtOm5HyP9b7Leayw6",
+      "TDYB8ZsbwseMWhv9fCUL2",
+      "VCZzChyMyLYKhzBrOOou1"
+    ],
+    "data": {},
+    "contentHash": "e0dfe7ac5e13e7c9a567e7315a469809",
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "brain.rafael.ovh",
+      "name": "publicbrain"
+    },
+    {
+      "fsPath": "brain",
+      "name": "Private Brain",
+      "visibility": "private"
+    }
+  ]
+}
