@@ -12,8 +12,8 @@
       "links": [],
       "anchors": {},
       "fname": "403",
-      "updated": 1637953509861,
-      "created": 1637953509861,
+      "updated": 1638122694770,
+      "created": 1638122694770,
       "parent": null,
       "children": [],
       "data": {}
@@ -42,7 +42,7 @@
       "created": 1637946761700,
       "parent": null,
       "children": [
-        "RsgBaS1yFEm6pbYVB2Vpf",
+        "XUHvInWXOKCqmIsuodNwo",
         "s5VQFtOm5HyP9b7Leayw6"
       ],
       "data": {},
@@ -54,7 +54,7 @@
     },
     "s5VQFtOm5HyP9b7Leayw6": {
       "id": "s5VQFtOm5HyP9b7Leayw6",
-      "title": "Linuxinstallparty",
+      "title": "Linux Install Party",
       "vault": {
         "fsPath": "brain.rafael.ovh",
         "name": "publicbrain"
@@ -64,16 +64,46 @@
       "links": [],
       "anchors": {},
       "fname": "linuxinstallparty",
-      "updated": 1637946985193,
+      "updated": 1638004148401,
       "created": 1637946985193,
       "parent": "g2W1t23VlaoRsP8u11AIE",
-      "children": [],
+      "children": [
+        "Qjxf1ekxZbKR5agXMtuOy"
+      ],
       "data": {},
-      "contentHash": "3fc7c40c0eb2740e7ced83966f8bbb3d",
+      "contentHash": "1b0c5a5cb2fd681f1b2ef9514adf6263",
       "custom": {}
     },
-    "RsgBaS1yFEm6pbYVB2Vpf": {
-      "id": "RsgBaS1yFEm6pbYVB2Vpf",
+    "Qjxf1ekxZbKR5agXMtuOy": {
+      "id": "Qjxf1ekxZbKR5agXMtuOy",
+      "title": "ZorinOS",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "pros": {
+          "type": "header",
+          "text": "Pros",
+          "value": "pros",
+          "line": 15,
+          "column": 0
+        }
+      },
+      "fname": "linuxinstallparty.zorin",
+      "updated": 1638122654283,
+      "created": 1638121187801,
+      "parent": "s5VQFtOm5HyP9b7Leayw6",
+      "children": [],
+      "data": {},
+      "contentHash": "8cce3eb31b30fe4bb80faa607cc2c044",
+      "custom": {}
+    },
+    "XUHvInWXOKCqmIsuodNwo": {
+      "id": "XUHvInWXOKCqmIsuodNwo",
       "title": "README",
       "vault": {
         "fsPath": "brain.rafael.ovh",
@@ -84,8 +114,8 @@
       "links": [],
       "anchors": {},
       "fname": "README",
-      "updated": 1637953509828,
-      "created": 1637953509828,
+      "updated": 1638122694716,
+      "created": 1638122694716,
       "parent": "g2W1t23VlaoRsP8u11AIE",
       "children": [],
       "data": {},
@@ -118,7 +148,7 @@
       "created": 1637946761700,
       "parent": null,
       "children": [
-        "RsgBaS1yFEm6pbYVB2Vpf",
+        "XUHvInWXOKCqmIsuodNwo",
         "s5VQFtOm5HyP9b7Leayw6",
         "TDYB8ZsbwseMWhv9fCUL2",
         "VCZzChyMyLYKhzBrOOou1"
@@ -156,7 +186,7 @@
     "created": 1637946761700,
     "parent": null,
     "children": [
-      "RsgBaS1yFEm6pbYVB2Vpf",
+      "XUHvInWXOKCqmIsuodNwo",
       "s5VQFtOm5HyP9b7Leayw6",
       "TDYB8ZsbwseMWhv9fCUL2",
       "VCZzChyMyLYKhzBrOOou1"
