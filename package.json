@@ -1,7 +1,6 @@
 {
   "name": "brain.rafael.ovh",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +18,6 @@
   "homepage": "https://github.com/rafaelsgirao/brain.rafael.ovh#readme",
   "dependencies": {
     "@dendronhq/dendron-cli": "^0.70.1"
-  }
+  },
+  "description": ""
 }
