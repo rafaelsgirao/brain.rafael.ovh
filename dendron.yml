@@ -10,7 +10,7 @@ site:
     copyAssets: true
     siteHierarchies:
         - root
-    siteRootDir: .
+    siteRootDir: docs
     usePrettyRefs: true
     title: Brain @ Rafael Girão
     description: Personal knowledge space

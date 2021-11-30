@@ -1,4 +1,5 @@
 
 .dendron.cache.*
 node_modules
+brain
 package-lock.json

@@ -2,7 +2,7 @@
 id: s5VQFtOm5HyP9b7Leayw6
 title: Linux Install Party
 desc: ''
-updated: 1638229879923
+updated: 1638294699779
 created: 1637946985193
 ---
 
@@ -19,7 +19,7 @@ Este é um guia para servir de acompanhamento ao que vai acontecendo durante o e
  - Particionamento do disco, pronto para single ou dualboot
  (TODO) adicionar aqueles previews estilo Dendron Wiki
  - Escolha da distro
- - "Flashar" a Pen USB, caso necessário
+ - Preparar a Pen USB, caso necessário
  - Instalar a distribuição
  - ?
 

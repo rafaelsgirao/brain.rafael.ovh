@@ -1,0 +1,502 @@
+{
+  "notes": {
+    "403": {
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "403",
+      "updated": 1638300184901,
+      "created": 1638300184901,
+      "parent": null,
+      "children": [],
+      "data": {}
+    },
+    "g2W1t23VlaoRsP8u11AIE": {
+      "id": "g2W1t23VlaoRsP8u11AIE",
+      "title": "Root",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0
+        }
+      },
+      "fname": "root",
+      "updated": 1637946761700,
+      "created": 1637946761700,
+      "parent": null,
+      "children": [
+        "7ehytuckfqwCKrwIdePsf",
+        "s5VQFtOm5HyP9b7Leayw6"
+      ],
+      "data": {},
+      "contentHash": "e0dfe7ac5e13e7c9a567e7315a469809",
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      }
+    },
+    "s5VQFtOm5HyP9b7Leayw6": {
+      "id": "s5VQFtOm5HyP9b7Leayw6",
+      "title": "Linux Install Party",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "avisos": {
+          "type": "header",
+          "text": "Avisos",
+          "value": "avisos",
+          "line": 12,
+          "column": 0
+        },
+        "programa": {
+          "type": "header",
+          "text": "Programa",
+          "value": "programa",
+          "line": 15,
+          "column": 0
+        },
+        "todo": {
+          "type": "header",
+          "text": "Todo",
+          "value": "todo",
+          "line": 25,
+          "column": 0
+        },
+        "escolha-de-distribuição": {
+          "type": "header",
+          "text": "Escolha de distribuição",
+          "value": "escolha-de-distribuição",
+          "line": 33,
+          "column": 0
+        }
+      },
+      "fname": "linuxinstallparty",
+      "updated": 1638294699779,
+      "created": 1637946985193,
+      "parent": "g2W1t23VlaoRsP8u11AIE",
+      "children": [
+        "2wh4y6KZ8YFjymG91e7y3",
+        "4YoNJgyS4bh4xjiegekRd",
+        "KeSbffSHpTSZNhNTSmxbQ",
+        "6iy2sS1IqaiIgClqarf6N",
+        "lOpuGHf0zhz8Du2dxPCoI",
+        "LDNl2y6SuTo1nVwFDIF5Q",
+        "BPi0YfA9ziMcFHfABxcy5",
+        "zlSz7MfQ3TdzJrww43Nhu",
+        "Qjxf1ekxZbKR5agXMtuOy"
+      ],
+      "data": {},
+      "contentHash": "84a9f0043f163192c6ff1b5d986be107",
+      "custom": {}
+    },
+    "Qjxf1ekxZbKR5agXMtuOy": {
+      "id": "Qjxf1ekxZbKR5agXMtuOy",
+      "title": "ZorinOS",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "pros": {
+          "type": "header",
+          "text": "Pros",
+          "value": "pros",
+          "line": 14,
+          "column": 0
+        },
+        "cons": {
+          "type": "header",
+          "text": "Cons",
+          "value": "cons",
+          "line": 20,
+          "column": 0
+        }
+      },
+      "fname": "linuxinstallparty.zorin",
+      "updated": 1638297900286,
+      "created": 1638121187801,
+      "parent": "s5VQFtOm5HyP9b7Leayw6",
+      "children": [],
+      "data": {},
+      "contentHash": "61565012bed527db5dc6c896f6ef4cde",
+      "custom": {}
+    },
+    "zlSz7MfQ3TdzJrww43Nhu": {
+      "id": "zlSz7MfQ3TdzJrww43Nhu",
+      "title": "Pop!_OS",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "linuxinstallparty.popos",
+      "updated": 1638210778944,
+      "created": 1638210627137,
+      "parent": "s5VQFtOm5HyP9b7Leayw6",
+      "children": [],
+      "data": {},
+      "contentHash": "d59049746fe66bab0740ec80d49f1c0b",
+      "custom": {}
+    },
+    "BPi0YfA9ziMcFHfABxcy5": {
+      "id": "BPi0YfA9ziMcFHfABxcy5",
+      "title": "Particionamento",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "linuxinstallparty.particoes",
+      "updated": 1638210724097,
+      "created": 1638144334256,
+      "parent": "s5VQFtOm5HyP9b7Leayw6",
+      "children": [],
+      "data": {},
+      "contentHash": "0658a62043d865bca285e237839664e8",
+      "custom": {}
+    },
+    "LDNl2y6SuTo1nVwFDIF5Q": {
+      "id": "LDNl2y6SuTo1nVwFDIF5Q",
+      "title": "Metodosdeinstalacao",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "linuxinstallparty.metodosdeinstalacao",
+      "updated": 1638144319112,
+      "created": 1638144319113,
+      "parent": "s5VQFtOm5HyP9b7Leayw6",
+      "children": [],
+      "data": {},
+      "contentHash": "304ddf6cb3a8cecfeb6af793c0249d24",
+      "custom": {}
+    },
+    "lOpuGHf0zhz8Du2dxPCoI": {
+      "id": "lOpuGHf0zhz8Du2dxPCoI",
+      "title": "Eduroam",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "referências": {
+          "type": "header",
+          "text": "Referências",
+          "value": "referências",
+          "line": 25,
+          "column": 0
+        }
+      },
+      "fname": "linuxinstallparty.eduroam",
+      "updated": 1638297117645,
+      "created": 1638144358528,
+      "parent": "s5VQFtOm5HyP9b7Leayw6",
+      "children": [],
+      "data": {},
+      "contentHash": "f7f0f05ac4cd6a5617930e67782a1b02",
+      "custom": {}
+    },
+    "6iy2sS1IqaiIgClqarf6N": {
+      "id": "6iy2sS1IqaiIgClqarf6N",
+      "title": "Conceitos",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "linuxinstallparty.conceitos",
+      "updated": 1638229608788,
+      "created": 1638185501449,
+      "parent": "s5VQFtOm5HyP9b7Leayw6",
+      "children": [
+        "5WrizHdHlIsaZZYYwK7RZ"
+      ],
+      "data": {},
+      "contentHash": "ad25343f257cbb804f72754e3ab5326d",
+      "stub": false,
+      "custom": {
+        "stub": true
+      }
+    },
+    "5WrizHdHlIsaZZYYwK7RZ": {
+      "id": "5WrizHdHlIsaZZYYwK7RZ",
+      "title": "Partições",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "linuxinstallparty.conceitos.particoes",
+      "updated": 1638177806502,
+      "created": 1638177802772,
+      "parent": "6iy2sS1IqaiIgClqarf6N",
+      "children": [],
+      "data": {},
+      "contentHash": "8fc1f6ba23584a61a3467e1da31150a6",
+      "custom": {}
+    },
+    "KeSbffSHpTSZNhNTSmxbQ": {
+      "id": "KeSbffSHpTSZNhNTSmxbQ",
+      "title": "Arch Linux",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "instalação-resolução-de-problemas-outros": {
+          "type": "header",
+          "text": "Instalação, resolução de problemas, outros",
+          "value": "instalação-resolução-de-problemas-outros",
+          "line": 16,
+          "column": 0
+        },
+        "pros": {
+          "type": "header",
+          "text": "Pros",
+          "value": "pros",
+          "line": 22,
+          "column": 0
+        },
+        "cons": {
+          "type": "header",
+          "text": "Cons",
+          "value": "cons",
+          "line": 28,
+          "column": 0
+        }
+      },
+      "fname": "linuxinstallparty.archlinux",
+      "updated": 1638300120240,
+      "created": 1638144347703,
+      "parent": "s5VQFtOm5HyP9b7Leayw6",
+      "children": [],
+      "data": {},
+      "contentHash": "99df36546c82258549785800224eeafc",
+      "custom": {}
+    },
+    "4YoNJgyS4bh4xjiegekRd": {
+      "id": "4YoNJgyS4bh4xjiegekRd",
+      "title": "Ajuda",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "arch-wiki": {
+          "type": "header",
+          "text": "Arch Wiki",
+          "value": "arch-wiki",
+          "line": 10,
+          "column": 0
+        },
+        "isthub": {
+          "type": "header",
+          "text": "ISTHub",
+          "value": "isthub",
+          "line": 13,
+          "column": 0
+        }
+      },
+      "fname": "linuxinstallparty.ajuda",
+      "updated": 1638225066474,
+      "created": 1638144416685,
+      "parent": "s5VQFtOm5HyP9b7Leayw6",
+      "children": [],
+      "data": {},
+      "contentHash": "7f4f789a6795451cb2e692502fb2e9bd",
+      "custom": {}
+    },
+    "2wh4y6KZ8YFjymG91e7y3": {
+      "id": "2wh4y6KZ8YFjymG91e7y3",
+      "title": "After party",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "ricing": {
+          "type": "header",
+          "text": "Ricing",
+          "value": "ricing",
+          "line": 13,
+          "column": 0
+        },
+        "window-managers": {
+          "type": "header",
+          "text": "Window Managers",
+          "value": "window-managers",
+          "line": 21,
+          "column": 0
+        }
+      },
+      "fname": "linuxinstallparty.afterparty",
+      "updated": 1638225082826,
+      "created": 1638143013127,
+      "parent": "s5VQFtOm5HyP9b7Leayw6",
+      "children": [],
+      "data": {},
+      "contentHash": "ad577a626b8bae45814392f59a38e4f1",
+      "custom": {}
+    },
+    "7ehytuckfqwCKrwIdePsf": {
+      "id": "7ehytuckfqwCKrwIdePsf",
+      "title": "README",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "README",
+      "updated": 1638300184832,
+      "created": 1638300184832,
+      "parent": "g2W1t23VlaoRsP8u11AIE",
+      "children": [],
+      "data": {},
+      "contentHash": "e980e69cac57fbb05cba5da26441f0ab",
+      "custom": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "g2W1t23VlaoRsP8u11AIE",
+      "title": "Root",
+      "vault": {
+        "fsPath": "brain.rafael.ovh",
+        "name": "publicbrain"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0
+        }
+      },
+      "fname": "root",
+      "updated": 1637946761700,
+      "created": 1637946761700,
+      "parent": null,
+      "children": [
+        "7ehytuckfqwCKrwIdePsf",
+        "s5VQFtOm5HyP9b7Leayw6",
+        "TDYB8ZsbwseMWhv9fCUL2",
+        "VCZzChyMyLYKhzBrOOou1"
+      ],
+      "data": {},
+      "contentHash": "e0dfe7ac5e13e7c9a567e7315a469809",
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "g2W1t23VlaoRsP8u11AIE",
+    "title": "Root",
+    "vault": {
+      "fsPath": "brain.rafael.ovh",
+      "name": "publicbrain"
+    },
+    "type": "note",
+    "desc": "",
+    "links": [],
+    "anchors": {
+      "welcome-to-dendron": {
+        "type": "header",
+        "text": "Welcome to Dendron",
+        "value": "welcome-to-dendron",
+        "line": 7,
+        "column": 0
+      }
+    },
+    "fname": "root",
+    "updated": 1637946761700,
+    "created": 1637946761700,
+    "parent": null,
+    "children": [
+      "7ehytuckfqwCKrwIdePsf",
+      "s5VQFtOm5HyP9b7Leayw6",
+      "TDYB8ZsbwseMWhv9fCUL2",
+      "VCZzChyMyLYKhzBrOOou1"
+    ],
+    "data": {},
+    "contentHash": "e0dfe7ac5e13e7c9a567e7315a469809",
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "brain.rafael.ovh",
+      "name": "publicbrain"
+    },
+    {
+      "fsPath": "brain",
+      "name": "Private Brain",
+      "visibility": "private"
+    }
+  ]
+}
